@@ -12,8 +12,7 @@ function About(){
                     <button className="learnBtn btn_demo">DEMO</button>
                 </div>
                 <div className="vidio">
-                    <video autoPlay style={{ width: '140px', height: '78px' }}>
-                         <source src="../../src/Assets/img/Talant.MP4" />
+                    
                      </video>
                     <div className="video-description">
                     <p>The harder you work for something, the greater you’ll feel when you achieve it.</p>
